@@ -1,0 +1,1 @@
+export const URL = 'https://bridge.dailysocial.id/bridge/recent'
